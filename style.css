@@ -9,16 +9,16 @@ body {
     justify-content: center;
 }
 
-.text {
+h1 {
     color: #000000;
     font-family: "Uchen";
-    font-size: 5rem;
+    font-size: 2rem;
     margin: 0px;
 }
 
 img {
     transition: transform .7s ease-in-out;
-    max-width: 800px;
+    max-width: 300px;
     padding: 5px;
 }
 
