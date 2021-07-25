@@ -7,21 +7,29 @@ body {
     font-weight: 900;
     height: 100vh;
     justify-content: center;
-    margin: 15px;
 }
 
 .text {
     color: #000000;
     font-family: "Uchen";
     font-size: 5rem;
+    margin: 0px;
 }
 
 img {
     transition: transform .7s ease-in-out;
     max-width: 800px;
-    padding: 10px;
+    padding: 5px;
 }
 
 img:hover {
     transform: rotate(180deg);
+}
+
+footer {
+    align-items: bottom;
+}
+
+a {
+    color: #000000;
 }
